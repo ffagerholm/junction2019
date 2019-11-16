@@ -1,0 +1,501 @@
+,Date,cn,de,fi,gb,ru,se
+0,2017-01-01,National holiday,National holiday,National holiday,Hebrew,National holiday,National holiday
+1,2017-01-02,Common local holiday,,,National holiday,National holiday,
+2,2017-01-03,,,,Local holiday,National holiday,
+3,2017-01-04,,,,,National holiday,
+4,2017-01-05,,,,,National holiday,Observance
+5,2017-01-06,,Christian,National holiday,Christian,National holiday,National holiday
+6,2017-01-07,,,,Orthodox,National holiday,
+7,2017-01-14,,,,Orthodox,Observance,
+8,2017-01-22,Weekend,Observance,,,,
+9,2017-01-25,,,,Local observance,,
+10,2017-01-27,National holiday,Observance,,,,
+11,2017-01-28,National holiday,Observance,,Observance,,
+12,2017-01-29,National holiday,,,,,
+13,2017-01-30,Common local holiday,,,,,
+14,2017-01-31,Common local holiday,,,,,
+15,2017-02-01,Common local holiday,,,,,
+16,2017-02-02,Common local holiday,,,,,
+17,2017-02-04,Weekend,,,,,
+18,2017-02-10,,Observance,,,,
+19,2017-02-11,Observance,,,Hebrew,,
+20,2017-02-14,,Observance,Observance,Observance,Observance,Observance
+21,2017-02-23,,,,,National holiday,
+22,2017-02-24,,,,Hinduism,National holiday,
+23,2017-02-27,Observance,Observance,,,Observance,
+24,2017-02-28,,Observance,,Christian,,
+25,2017-03-01,,Observance,,Local holiday,,
+26,2017-03-08,Observance,Observance,,,National holiday,
+27,2017-03-12,Observance,,,21.0,,
+28,2017-03-17,,Observance,,Local holiday,,
+29,2017-03-20T10:28:39+00:00,,,,Season,,
+30,2017-03-20T11:28:39+01:00,,Season,,,,Season
+31,2017-03-20T12:28:39+02:00,,,Season,,,
+32,2017-03-20T13:28:39+03:00,,,,,Season,
+33,2017-03-20T18:28:39+08:00,Season,,,,,
+34,2017-03-26,,,,Observance,,
+35,2017-03-26T01:00:00+00:00,,,,Clock change/Daylight Saving Time,,
+36,2017-03-26T02:00:00+01:00,,Clock change/Daylight Saving Time,,,,Clock change/Daylight Saving Time
+37,2017-04-01,Weekend,,,,,
+38,2017-04-02,National holiday,,,,,
+39,2017-04-03,National holiday,,,,,
+40,2017-04-04,National holiday,,,,,
+41,2017-04-09,,Observance,,Christian,,
+42,2017-04-11,,,,Hebrew,,
+43,2017-04-13,,Observance,,Christian,,
+44,2017-04-14,,National holiday,National holiday,Orthodox,,National holiday
+45,2017-04-15,,,,17.0,,Observance
+46,2017-04-16,,Local holiday,National holiday,Local observance,Observance,National holiday
+47,2017-04-17,,National holiday,National holiday,14.0,,National holiday
+48,2017-04-18,,,,Hebrew,,
+49,2017-04-23,,Observance,,Season,,
+50,2017-04-24,,,,15.0,Muslim,
+51,2017-04-27,,Observance,,,,
+52,2017-04-29,National holiday,,,,,
+53,2017-04-30,National holiday,Observance,,,,Observance
+54,2017-05-01,National holiday,National holiday,National holiday,National holiday,National holiday,National holiday
+55,2017-05-02,,,,Hebrew,,
+56,2017-05-04,Observance,,,,,
+57,2017-05-05,,Observance,,,,
+58,2017-05-08,,,,,National holiday,
+59,2017-05-09,,,,,National holiday,
+60,2017-05-14,,Observance,Observance,Hebrew,,
+61,2017-05-23,,Observance,,,,
+62,2017-05-25,,Observance,National holiday,Christian,,National holiday
+63,2017-05-27,Weekend,,,Muslim,Muslim,
+64,2017-05-28,National holiday,,,,,Observance
+65,2017-05-29,National holiday,,,National holiday,,
+66,2017-05-30,National holiday,,,,,
+67,2017-05-31,,,,Hebrew,,
+68,2017-06-01,Observance,Observance,,,,
+69,2017-06-03,,Observance,,,,Observance
+70,2017-06-04,,Local holiday,National holiday,Christian,,National holiday
+71,2017-06-05,,National holiday,,Christian,,
+72,2017-06-06,,Observance,,,,National holiday
+73,2017-06-10,,,,Observance,,
+74,2017-06-11,,,,Christian,,
+75,2017-06-12,,,,,National holiday,
+76,2017-06-15,,15.0,,Christian,,
+77,2017-06-16,,Observance,,,,
+78,2017-06-18,,Observance,,Observance,,
+79,2017-06-21,,,,Muslim,Muslim,
+80,2017-06-21T05:24:08+01:00,,,,Season,,
+81,2017-06-21T06:24:08+02:00,,Season,,,,Season
+82,2017-06-21T07:24:08+03:00,,,Season,,Season,
+83,2017-06-21T12:24:08+08:00,Season,,,,,
+84,2017-06-23,,,Observance,,,Observance
+85,2017-06-24,,Observance,National holiday,,,National holiday
+86,2017-06-26,,,,Muslim,Muslim,
+87,2017-07-01,Observance,,,,,
+88,2017-07-11,Observance,,,,,
+89,2017-07-12,,,,Local holiday,,
+90,2017-08-01,Observance,,,Hebrew,,
+91,2017-08-07,,,,15.0,,
+92,2017-08-08,,Local holiday,,,,
+93,2017-08-14,,,,Hinduism,,
+94,2017-08-15,,Christian,,Christian,,
+95,2017-08-25,,,,Hinduism,,
+96,2017-08-28,Observance,,,Common local holiday,,
+97,2017-09-01,,Observance,,,Observance,
+98,2017-09-02,,Observance,,Muslim,Muslim,
+99,2017-09-05,Observance,,,,,
+100,2017-09-09,,Observance,,,,
+101,2017-09-10,Observance,Observance,,,,
+102,2017-09-16,,Observance,,,,
+103,2017-09-20,,Observance,,Hinduism,,
+104,2017-09-21,,,,Hebrew,,
+105,2017-09-22,,,,Muslim,Muslim,
+106,2017-09-22T21:01:40+01:00,,,,Season,,
+107,2017-09-22T22:01:40+02:00,,Season,,,,Season
+108,2017-09-22T23:01:40+03:00,,,Season,,Season,
+109,2017-09-23T04:01:40+08:00,Season,,,,,
+110,2017-09-30,Weekend,,,21.0,,
+111,2017-10-01,National holiday,Observance,,Muslim,,
+112,2017-10-02,National holiday,,,,,
+113,2017-10-03,National holiday,National holiday,,,,
+114,2017-10-04,Common local holiday,,,Christian,,
+115,2017-10-05,Common local holiday,,,Hebrew,,
+116,2017-10-06,Common local holiday,,,,,
+117,2017-10-07,Common local holiday,,,,,
+118,2017-10-08,Common local holiday,,,,,
+119,2017-10-11,,,,Hebrew,,
+120,2017-10-12,,,,Hebrew,,
+121,2017-10-13,,,,Hebrew,,
+122,2017-10-19,,,,Observance,,
+123,2017-10-24,,Observance,,,,
+124,2017-10-28,Observance,,,,,
+125,2017-10-29T02:00:00+01:00,,,,Clock change/Daylight Saving Time,,
+126,2017-10-29T03:00:00+02:00,,Clock change/Daylight Saving Time,,,,Clock change/Daylight Saving Time
+127,2017-10-30,,Observance,,,,
+128,2017-10-31,,Observance,,Observance,,
+129,2017-11-01,,Christian,,Christian,,
+130,2017-11-02,,,,Christian,,
+131,2017-11-03,,,,,,Observance
+132,2017-11-04,,,National holiday,,National holiday,National holiday
+133,2017-11-05,,,,Observance,,
+134,2017-11-06,,,,,National holiday,
+135,2017-11-08,Observance,,,,,
+136,2017-11-09,,Season,,,,
+137,2017-11-11,,Observance,,,,
+138,2017-11-12,,,Observance,Observance,,Observance
+139,2017-11-19,,Observance,,,,
+140,2017-11-22,,Christian,,,,
+141,2017-11-26,,Observance,,,,
+142,2017-11-30,,,,Local holiday,,
+143,2017-12-01,,,,Muslim,Muslim,
+144,2017-12-03,,Observance,,Observance,,Observance
+145,2017-12-06,,Observance,National holiday,,,
+146,2017-12-08,,,,Christian,,
+147,2017-12-10,,Observance,,,,Observance
+148,2017-12-13,,,,Hebrew,,
+149,2017-12-17,,Observance,,,,Observance
+150,2017-12-19,,Observance,,,,
+151,2017-12-20,,,,Hebrew,,
+152,2017-12-21T16:27:56+00:00,,,,Season,,
+153,2017-12-21T17:27:56+01:00,,Season,,,,Season
+154,2017-12-21T18:27:56+02:00,,,Season,,,
+155,2017-12-21T19:27:56+03:00,,,,,Season,
+156,2017-12-22T00:27:56+08:00,Season,,,,,
+157,2017-12-24,,Season,Observance,Observance,,Season
+158,2017-12-25,Observance,National holiday,National holiday,National holiday,,National holiday
+159,2017-12-26,,National holiday,National holiday,National holiday,,National holiday
+160,2017-12-31,,Observance,Observance,Observance,,Observance
+161,2018-01-01,National holiday,National holiday,National holiday,National holiday,National holiday,National holiday
+162,2018-01-02,Common local holiday,,,Local holiday,National holiday,
+163,2018-01-03,,,,,National holiday,
+164,2018-01-04,,,,,National holiday,
+165,2018-01-05,,,,,National holiday,Observance
+166,2018-01-06,,Christian,National holiday,Christian,,National holiday
+167,2018-01-07,,,,Orthodox,National holiday,
+168,2018-01-08,,,,,National holiday,
+169,2018-01-14,,,,Orthodox,Observance,
+170,2018-01-22,,Observance,,,,
+171,2018-01-25,,,,Local observance,,
+172,2018-01-27,,Observance,,,,
+173,2018-01-28,,Observance,,,,
+174,2018-01-31,,,,Hebrew,,
+175,2018-02-10,,Observance,,,,
+176,2018-02-12,,Observance,,,,
+177,2018-02-13,,Observance,,19.0,,
+178,2018-02-14,,Season,,Local holiday,Observance,Observance
+179,2018-02-15,National holiday,,,,,
+180,2018-02-16,National holiday,,,Observance,,
+181,2018-02-17,National holiday,,,,,
+182,2018-02-18,Common local holiday,,,,,
+183,2018-02-19,Common local holiday,,,,,
+184,2018-02-20,Common local holiday,,,,,
+185,2018-02-21,Common local holiday,,,,,
+186,2018-02-23,,,,,National holiday,
+187,2018-02-27,,,,,Observance,
+188,2018-03-01,,,,Orthodox,,
+189,2018-03-02,Observance,,,Hinduism,,
+190,2018-03-08,Observance,Observance,,,National holiday,
+191,2018-03-09,,,,,National holiday,
+192,2018-03-11,,,,Observance,,
+193,2018-03-12,Observance,,,,,
+194,2018-03-17,,Observance,,Local holiday,,
+195,2018-03-18,Observance,,,,,
+196,2018-03-19,,,,Local holiday,,
+197,2018-03-20T16:15:20+00:00,,,,Season,,
+198,2018-03-20T17:15:20+01:00,,Season,,,,Season
+199,2018-03-20T18:15:20+02:00,,,Season,,,
+200,2018-03-20T19:15:20+03:00,,,,,Season,
+201,2018-03-21T00:15:20+08:00,Season,,,,,
+202,2018-03-25,,Observance,,Christian,,
+203,2018-03-25T01:00:00+00:00,,,,Clock change/Daylight Saving Time,,
+204,2018-03-25T02:00:00+01:00,,Clock change/Daylight Saving Time,,,,Clock change/Daylight Saving Time
+205,2018-03-29,,Observance,,Christian,,
+206,2018-03-30,,National holiday,National holiday,National holiday,,National holiday
+207,2018-03-31,,,,16.0,,Observance
+208,2018-04-01,,Local holiday,National holiday,Observance,,National holiday
+209,2018-04-02,,National holiday,National holiday,Weekend,,National holiday
+210,2018-04-05,National holiday,,,,,
+211,2018-04-06,,,,Orthodox,,
+212,2018-04-07,,,,19.0,,
+213,2018-04-08,,,,Orthodox,Observance,
+214,2018-04-09,,,,Orthodox,,
+215,2018-04-12,,,,Hebrew,,
+216,2018-04-13,,,,Muslim,,
+217,2018-04-14,,,,,Muslim,
+218,2018-04-19,,,,Hebrew,,
+219,2018-04-23,,Observance,,Season,,
+220,2018-04-26,,Observance,,,,
+221,2018-04-28,,,,,Weekend,
+222,2018-04-30,,Observance,,,National holiday,Observance
+223,2018-05-01,National holiday,National holiday,National holiday,,National holiday,National holiday
+224,2018-05-02,,,,,National holiday,
+225,2018-05-03,,,,Hebrew,,
+226,2018-05-04,Observance,,,,,
+227,2018-05-05,,Observance,,,,
+228,2018-05-07,,,,National holiday,,
+229,2018-05-09,,,,,National holiday,
+230,2018-05-10,,Observance,National holiday,Christian,,National holiday
+231,2018-05-13,,Observance,Observance,,,
+232,2018-05-16,,,,Muslim,Muslim,
+233,2018-05-19,,,,,,Observance
+234,2018-05-20,,Local holiday,National holiday,16.0,,National holiday
+235,2018-05-21,,National holiday,,Christian,,
+236,2018-05-23,,Observance,,,,
+237,2018-05-27,,,,Christian,,Observance
+238,2018-05-28,,,,National holiday,,
+239,2018-05-31,,15.0,,Christian,,
+240,2018-06-01,Observance,Observance,,,,
+241,2018-06-03,,Observance,,,,
+242,2018-06-06,,Observance,,,,National holiday
+243,2018-06-09,,,,Observance,Weekend,
+244,2018-06-10,,,,Muslim,Muslim,
+245,2018-06-11,,,,,National holiday,
+246,2018-06-12,,,,,National holiday,
+247,2018-06-15,,Observance,,Muslim,Muslim,
+248,2018-06-17,,Observance,,Observance,,
+249,2018-06-18,National holiday,,,,,
+250,2018-06-21T11:07:17+01:00,,,,Season,,
+251,2018-06-21T12:07:17+02:00,,Season,,,,Season
+252,2018-06-21T13:07:17+03:00,,,Season,,Season,
+253,2018-06-21T18:07:17+08:00,Season,,,,,
+254,2018-06-22,,,Observance,Observance,,Observance
+255,2018-06-23,,Observance,National holiday,,,National holiday
+256,2018-07-01,Observance,,,,,
+257,2018-07-11,Observance,,,,,
+258,2018-07-12,,,,Local holiday,,
+259,2018-07-22,,,,Hebrew,,
+260,2018-08-01,Observance,,,,,
+261,2018-08-06,,,,Common local holiday,,
+262,2018-08-08,,Local holiday,,,,
+263,2018-08-15,,Christian,,Christian,,
+264,2018-08-17,Observance,,,,,
+265,2018-08-21,,,,Muslim,,
+266,2018-08-22,,,,,Muslim,
+267,2018-08-25,Observance,Observance,,,,
+268,2018-08-26,,,,Hinduism,,
+269,2018-08-27,,,,Common local holiday,,
+270,2018-09-01,,Observance,,,Observance,
+271,2018-09-02,,,,Hinduism,,
+272,2018-09-08,,Observance,,,,
+273,2018-09-09,,Observance,,,,
+274,2018-09-10,Observance,,,Hebrew,,
+275,2018-09-12,,,,Muslim,Muslim,
+276,2018-09-13,,,,Hinduism,,
+277,2018-09-19,,,,Hebrew,,
+278,2018-09-20,,Observance,,,,
+279,2018-09-21,,,,Muslim,,
+280,2018-09-23T02:54:08+01:00,,,,Season,,
+281,2018-09-23T03:54:08+02:00,,Season,,,,Season
+282,2018-09-23T04:54:08+03:00,,,Season,,Season,
+283,2018-09-23T09:54:08+08:00,Season,,,,,
+284,2018-09-24,National holiday,,,Hebrew,,
+285,2018-09-29,,Observance,,,,
+286,2018-09-30,,,,Hebrew,,
+287,2018-10-01,National holiday,,,Hebrew,,
+288,2018-10-02,National holiday,,,Hebrew,,
+289,2018-10-03,National holiday,National holiday,,,,
+290,2018-10-04,Common local holiday,,,Christian,,
+291,2018-10-05,Common local holiday,,,,,
+292,2018-10-06,Common local holiday,,,,,
+293,2018-10-07,Common local holiday,Observance,,,,
+294,2018-10-10,,,,Hinduism,,
+295,2018-10-17,Observance,,,,,
+296,2018-10-18,,,,Hinduism,,
+297,2018-10-24,,Observance,,,,
+298,2018-10-28T02:00:00+01:00,,,,Clock change/Daylight Saving Time,,
+299,2018-10-28T03:00:00+02:00,,Clock change/Daylight Saving Time,,,,Clock change/Daylight Saving Time
+300,2018-10-30,,Observance,,,,
+301,2018-10-31,,Weekend,,Observance,,
+302,2018-11-01,,Christian,,Christian,,
+303,2018-11-02,,,,Christian,,Observance
+304,2018-11-03,,,National holiday,,,National holiday
+305,2018-11-04,,,,,National holiday,
+306,2018-11-05,,,,Observance,National holiday,
+307,2018-11-07,,,,Observance,,
+308,2018-11-08,Observance,,,,,
+309,2018-11-09,,Season,,,,
+310,2018-11-11,,Observance,Observance,Observance,,Observance
+311,2018-11-18,,Observance,,,,
+312,2018-11-21,,Christian,,Muslim,Muslim,
+313,2018-11-25,,Observance,,,,
+314,2018-11-30,,,,Local holiday,,
+315,2018-12-02,,Observance,,Observance,,Observance
+316,2018-12-03,,,,Hebrew,,
+317,2018-12-06,,Observance,National holiday,,,
+318,2018-12-08,,,,Christian,,
+319,2018-12-09,,Observance,,,,Observance
+320,2018-12-10,,,,Hebrew,,
+321,2018-12-16,,Observance,,,,Observance
+322,2018-12-19,,Observance,,,,
+323,2018-12-21T22:22:44+00:00,,,,Season,,
+324,2018-12-21T23:22:44+01:00,,Season,,,,Season
+325,2018-12-22T00:22:44+02:00,,,Season,,,
+326,2018-12-22T01:22:44+03:00,,,,,Season,
+327,2018-12-22T06:22:44+08:00,Season,,,,,
+328,2018-12-23,,Observance,,,,Observance
+329,2018-12-24,,Observance,Observance,Observance,,Observance
+330,2018-12-25,Observance,National holiday,National holiday,National holiday,,National holiday
+331,2018-12-26,,National holiday,National holiday,National holiday,,National holiday
+332,2018-12-29,,,,,Weekend,
+333,2018-12-31,,Observance,,Observance,National holiday,Observance
+334,2019-01-01,National holiday,National holiday,National holiday,National holiday,National holiday,National holiday
+335,2019-01-02,Common local holiday,,,Local holiday,National holiday,
+336,2019-01-03,,,,,National holiday,
+337,2019-01-04,,,,,National holiday,
+338,2019-01-05,,,,,,Observance
+339,2019-01-06,,Christian,National holiday,Christian,,National holiday
+340,2019-01-07,,,,Orthodox,National holiday,
+341,2019-01-08,,,,,National holiday,
+342,2019-01-14,,,,Orthodox,Observance,
+343,2019-01-21,,,,Hebrew,,
+344,2019-01-22,,Observance,,,,
+345,2019-01-25,,,,Local observance,,
+346,2019-01-27,,Observance,,,,
+347,2019-01-28,,Observance,,,,
+348,2019-02-04,National holiday,,,,,
+349,2019-02-05,National holiday,,,Observance,,
+350,2019-02-06,National holiday,,,,,
+351,2019-02-07,Common local holiday,,,,,
+352,2019-02-08,Common local holiday,,,,,
+353,2019-02-09,Common local holiday,,,,,
+354,2019-02-10,Common local holiday,Observance,,,,
+355,2019-02-14,,Observance,,Observance,Observance,Observance
+356,2019-02-19,Observance,,,,,
+357,2019-02-23,,,,,National holiday,
+358,2019-02-27,,,,,Observance,
+359,2019-03-01,,,,Observance,,
+360,2019-03-04,,Observance,,Hinduism,,
+361,2019-03-05,,Observance,,Christian,,
+362,2019-03-06,,Observance,,Christian,,
+363,2019-03-08,Season,Clock change/Daylight Saving Time,,,National holiday,
+364,2019-03-12,Observance,,,,,
+365,2019-03-17,,Observance,,Local holiday,,
+366,2019-03-18,,,,Local holiday,,
+367,2019-03-20T21:58:32+00:00,,,,Season,,
+368,2019-03-20T22:58:32+01:00,,Season,,,,Season
+369,2019-03-20T23:58:32+02:00,,,Season,,,
+370,2019-03-21,,,,21.0,,
+371,2019-03-21T00:58:32+03:00,,,,,Season,
+372,2019-03-21T05:58:32+08:00,Season,,,,,
+373,2019-03-28,,Observance,,,,
+374,2019-03-31,,,,Observance,,
+375,2019-03-31T01:00:00+00:00,,,,Clock change/Daylight Saving Time,,
+376,2019-03-31T02:00:00+01:00,,Clock change/Daylight Saving Time,,,,Clock change/Daylight Saving Time
+377,2019-04-03,,,,Muslim,Muslim,
+378,2019-04-05,National holiday,,,,,
+379,2019-04-06,National holiday,,,,,
+380,2019-04-07,National holiday,,,,,
+381,2019-04-14,,Observance,,Christian,,
+382,2019-04-18,,Observance,,Christian,,
+383,2019-04-19,,National holiday,National holiday,National holiday,,National holiday
+384,2019-04-20,,,,16.0,,Observance
+385,2019-04-21,,Local holiday,National holiday,Observance,,National holiday
+386,2019-04-22,,National holiday,National holiday,Clock change/Daylight Saving Time,,National holiday
+387,2019-04-23,,Observance,,Season,,
+388,2019-04-26,,,,Orthodox,,
+389,2019-04-27,,,,19.0,,
+390,2019-04-28,Weekend,,,Orthodox,Observance,
+391,2019-04-29,,,,Orthodox,,
+392,2019-04-30,,Observance,,,,Observance
+393,2019-05-01,National holiday,National holiday,National holiday,,National holiday,National holiday
+394,2019-05-02,National holiday,,,Hebrew,National holiday,
+395,2019-05-03,National holiday,,,,National holiday,
+396,2019-05-04,Observance,,,,,
+397,2019-05-05,Weekend,Observance,,,,
+398,2019-05-06,,,,Muslim,Muslim,
+399,2019-05-09,,,,Hebrew,National holiday,
+400,2019-05-10,,,,,National holiday,
+401,2019-05-12,,Observance,Observance,,,
+402,2019-05-23,,Observance,,Hebrew,,
+403,2019-05-26,,,,,,Observance
+404,2019-05-27,,,,National holiday,,
+405,2019-05-30,,Observance,National holiday,Christian,,National holiday
+406,2019-05-31,,,,Muslim,Muslim,
+407,2019-06-01,Observance,Observance,,,,
+408,2019-06-03,,Observance,,,,
+409,2019-06-04,,,,Muslim,Muslim,
+410,2019-06-06,,Observance,,,,National holiday
+411,2019-06-07,National holiday,,,,,
+412,2019-06-08,,,,Observance,,Observance
+413,2019-06-09,,Local holiday,National holiday,16.0,,National holiday
+414,2019-06-10,,National holiday,,Christian,,
+415,2019-06-12,,,,,National holiday,
+416,2019-06-14,,Observance,,,,
+417,2019-06-16,,Observance,,Local holiday,,
+418,2019-06-20,,15.0,,Christian,,
+419,2019-06-21,,,Observance,,,Observance
+420,2019-06-21T16:54:14+01:00,,,,Season,,
+421,2019-06-21T17:54:14+02:00,,Season,,,,Season
+422,2019-06-21T18:54:14+03:00,,,Season,,Season,
+423,2019-06-21T23:54:14+08:00,Season,,,,,
+424,2019-06-22,,,National holiday,Observance,,National holiday
+425,2019-06-29,,Observance,,,,
+426,2019-07-01,Observance,,,,,
+427,2019-07-11,Observance,,,,,
+428,2019-07-12,,,,Local holiday,,
+429,2019-08-01,Observance,,,,,
+430,2019-08-05,,,,Common local holiday,,
+431,2019-08-07,Observance,,,,,
+432,2019-08-08,,Local holiday,,,,
+433,2019-08-11,,,,Hebrew,,
+434,2019-08-12,,,,Muslim,Muslim,
+435,2019-08-15,Observance,Christian,,19.0,,
+436,2019-08-23,,,,Hinduism,,
+437,2019-08-26,,,,Common local holiday,,
+438,2019-09-01,,Observance,,Muslim,Christian,
+439,2019-09-02,,,,Hinduism,,
+440,2019-09-08,,Season,,,,
+441,2019-09-10,Observance,,,Muslim,,
+442,2019-09-13,National holiday,,,,,
+443,2019-09-14,,Observance,,,,
+444,2019-09-20,,Observance,,,,
+445,2019-09-23T08:50:13+01:00,,,,Season,,
+446,2019-09-23T09:50:13+02:00,,Season,,,,Season
+447,2019-09-23T10:50:13+03:00,,,Season,,Season,
+448,2019-09-23T15:50:13+08:00,Season,,,,,
+449,2019-09-28,,Observance,,,,
+450,2019-09-29,,,,Hinduism,,
+451,2019-09-30,,,,Hebrew,,
+452,2019-10-01,National holiday,,,,,
+453,2019-10-02,National holiday,,,,,
+454,2019-10-03,National holiday,National holiday,,,,
+455,2019-10-04,Common local holiday,,,Christian,,
+456,2019-10-05,Common local holiday,,,,,
+457,2019-10-06,Common local holiday,Observance,,,,
+458,2019-10-07,Weekend,,,Hinduism,,
+459,2019-10-09,,,,Hebrew,,
+460,2019-10-14,,,,Hebrew,,
+461,2019-10-20,,,,Hebrew,,
+462,2019-10-21,,,,Hebrew,,
+463,2019-10-22,,,,Hebrew,,
+464,2019-10-24,,Observance,,,,
+465,2019-10-27,,,,Observance,,
+466,2019-10-27T02:00:00+01:00,,,,Clock change/Daylight Saving Time,,
+467,2019-10-27T03:00:00+02:00,,Clock change/Daylight Saving Time,,,,Clock change/Daylight Saving Time
+468,2019-10-30,,Observance,,,,
+469,2019-10-31,,Weekend,,Observance,,
+470,2019-11-01,,Christian,,Christian,,Observance
+471,2019-11-02,,,National holiday,Christian,,National holiday
+472,2019-11-04,,,,,National holiday,
+473,2019-11-05,,,,Observance,,
+474,2019-11-08,Observance,,,,,
+475,2019-11-09,,Season,,,,
+476,2019-11-10,,,Observance,Christian,Muslim,Observance
+477,2019-11-11,,Observance,,,,
+478,2019-11-17,,Observance,,,,
+479,2019-11-20,,Christian,,,,
+480,2019-11-24,,Observance,,,,
+481,2019-11-30,,,,Local holiday,,
+482,2019-12-01,,Observance,,Observance,,Observance
+483,2019-12-02,,,,Local holiday,,
+484,2019-12-06,,Observance,National holiday,,,
+485,2019-12-08,,Observance,,Christian,,Observance
+486,2019-12-15,,Observance,,,,Observance
+487,2019-12-19,,Observance,,,,
+488,2019-12-22,,Observance,,,,Observance
+489,2019-12-22T04:19:26+00:00,,,,Season,,
+490,2019-12-22T05:19:26+01:00,,Season,,,,Season
+491,2019-12-22T06:19:26+02:00,,,Season,,,
+492,2019-12-22T07:19:26+03:00,,,,,Season,
+493,2019-12-22T12:19:26+08:00,Season,,,,,
+494,2019-12-23,,,,Hebrew,,
+495,2019-12-24,,Observance,Observance,Observance,,Observance
+496,2019-12-25,Observance,National holiday,National holiday,National holiday,,National holiday
+497,2019-12-26,,National holiday,National holiday,National holiday,,National holiday
+498,2019-12-30,,,,Hebrew,,
+499,2019-12-31,,Observance,,Observance,,Observance
